@@ -31,17 +31,13 @@ We will go over the following topics:
 - [x] Custom patterns for secret scanning
 - [x] Managing access to alerts
 
-##### Exercise 2: Code scanning: [link](exercises/lab%203%20-%20code-scanning.md)
+##### Exercise 3: Code scanning: [link](exercises/lab%203%20-%20code-scanning.md)
 
 - [x] Enabling code scanning
 - [x] Reviewing any failed analysis jobs
 - [x] Using context and expressions to modify build
 - [x] Reviewing and managing results
 - [x] Triaging a result in a PR
-- [x] Customizing CodeQL configuration
-- [x] Adding your own code scanning suite to exclude rules
-- [x] Understanding how to add a custom query
-- [x] CodeQL demo
 
 </details>
 
