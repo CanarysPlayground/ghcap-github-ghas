@@ -1,13 +1,15 @@
 
 <h1 align="center">GitHub Advanced Security Bootcamp</h1>
-<p align="center">
-  <a href="#mega-prerequisites">Prerequisites</a> •  
-  <a href="#books-resources">Resources</a>
-</p>
+
 
 > This bootcamp is designed to help familiarize you with GitHub Advanced Security (GHAS) so that you can better understand how to use it in your own repositories.
 
+## Prerequisites
 
+- You must have a GitHub account. If you don't have, see "[Creating an account on GitHub.](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)"
+
+- Import the follwoing repo to your personal github account, choose **Public** visibility for this labs purpose. Or Fork the repository
+https://github.com/CanarysPlayground/ghcap-github-ghas.git
 
 ## 🏫 Agenda
 

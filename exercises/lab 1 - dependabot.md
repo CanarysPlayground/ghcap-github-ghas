@@ -1,6 +1,6 @@
 ## Dependabot
 
-The hands-on lab has the goal to learn you how to enable the Dependency and Dependabot features and gain hands-on experience with Dependatbot's ability to update your dependencies automatically.
+The hands-on lab has the goal to learn  how to enable the Dependency and Dependabot features and gain hands-on experience with Dependatbot's ability to update your dependencies automatically.
 ### Contents
 
 - [Enabling Dependabot alerts](#enabling-dependabot-alerts)
@@ -29,9 +29,8 @@ The dependency graph can be accessed from the `Insights` tab in your repository.
 
 #### Task 3: Viewing and managing results
 
-After a few minutes, the `Security` tab in the repository will indicate that there are new security alerts. You will see a **Create a security update** button; click this button to create a pull request (PR) to update the vulnerable dependency. The next section will show you how to enable security updates for all applicable Dependabot alerts.
+After a few minutes, the `Security` tab in the repository will indicate that there are new security alerts. 
 
-**Note**: If this not the case, we can trigger an analysis by updating `authn-service/requirements.txt`
 
 1. Go to the `Dependabot alerts` section to view the detected dependency issues.
 
